@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+DeepFace
+tensorflow==2.10.0
+Pillow
+opencv-python
+mtcnn
+tf-keras
